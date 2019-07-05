@@ -1,0 +1,11 @@
+C:\Users\Velin Arbov\Downloads\02. CSharp-OOP-Inheritance-Skeleton\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.deps.json
+C:\Users\Velin Arbov\Downloads\02. CSharp-OOP-Inheritance-Skeleton\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.runtimeconfig.json
+C:\Users\Velin Arbov\Downloads\02. CSharp-OOP-Inheritance-Skeleton\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.runtimeconfig.dev.json
+C:\Users\Velin Arbov\Downloads\02. CSharp-OOP-Inheritance-Skeleton\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.dll
+C:\Users\Velin Arbov\Downloads\02. CSharp-OOP-Inheritance-Skeleton\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.pdb
+C:\Users\Velin Arbov\Downloads\02. CSharp-OOP-Inheritance-Skeleton\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.csprojAssemblyReference.cache
+C:\Users\Velin Arbov\Downloads\02. CSharp-OOP-Inheritance-Skeleton\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.csproj.CoreCompileInputs.cache
+C:\Users\Velin Arbov\Downloads\02. CSharp-OOP-Inheritance-Skeleton\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.AssemblyInfoInputs.cache
+C:\Users\Velin Arbov\Downloads\02. CSharp-OOP-Inheritance-Skeleton\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.AssemblyInfo.cs
+C:\Users\Velin Arbov\Downloads\02. CSharp-OOP-Inheritance-Skeleton\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.dll
+C:\Users\Velin Arbov\Downloads\02. CSharp-OOP-Inheritance-Skeleton\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.pdb
